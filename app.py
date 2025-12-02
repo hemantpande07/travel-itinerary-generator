@@ -11,7 +11,7 @@ from dotenv import load_dotenv
 # Load the environment variables
 load_dotenv()
 api_key = os.environ.get("WEATHER_API_KEY")
-secret_key = os.environ.get("SECRET_KEY")
+secret_key = os.environ.get("SECRET_KEY", "fallback_super_secret_key")
 
 # Initialize the app
 app = Flask(__name__)
