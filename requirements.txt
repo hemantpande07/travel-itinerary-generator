@@ -2,7 +2,7 @@ attrs==23.1.0
 bcrypt==4.0.1
 beautifulsoup4==4.12.2
 # blinker removed because Flask requires >=1.9 and installs it automatically
-
+blinker 
 bs4==0.0.1
 cachetools==5.3.2
 certifi==2023.7.22
@@ -18,8 +18,8 @@ google-api-core==2.12.0
 google-auth==2.23.4
 google-generativeai
 googleapis-common-protos==1.61.0
-greenlet==3.0.0
-grpcio==1.59.2
+greenlet
+grpcio
 grpcio-status==1.59.2
 h11==0.14.0
 idna==3.7
