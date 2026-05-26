@@ -1,11 +1,11 @@
-# [Travel Itinerary Generator](https://sanjeev02.pythonanywhere.com)
+# [Travel Itinerary Generator]
 ***
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ff5f5f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemantpande07)
 [![GitHub license](https://img.shields.io/Travel-Itinerary-Generator?style=for-the-badge)](LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/Sanjeev-Kumar78/Travel-Itinerary-Generator?style=for-the-badge)]()
-[![GitHub contributors](https://img.shields.io/github/contributors/Sanjeev-Kumar78/Travel-Itinerary-Generator?style=for-the-badge)]()
-[![GitHub last-commit](https://img.shields.io/github/last-commit/Sanjeev-Kumar78/Travel-Itinerary-Generator?style=for-the-badge)]()
+[![GitHub issues](https://img.shields.io/github/issues/hemantpande07/Travel-Itinerary-Generator?style=for-the-badge)]()
+[![GitHub contributors](https://img.shields.io/github/contributors/pandehemant07/Travel-Itinerary-Generator?style=for-the-badge)]()
+[![GitHub last-commit](https://img.shields.io/github/last-commit/hemantpande07/Travel-Itinerary-Generator?style=for-the-badge)]()
 
 
 
